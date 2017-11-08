@@ -10,8 +10,11 @@ To send an email using the client type:
 You will then be prompted for:
 
 <code>From:</code> type your email here then click "enter"
+
 <code>To:</code> type who you want to send to here then click "enter"
+
 <code>Subject:</code> give a subject line then click "enter"
+
 <code>Message (end message by typing <CRLF>.<CRLF>):</code>
 Type your message to the recipient here, you can press "enter" as many times as you want.
 To complete the body of your message, on a new line, simple type "." then click the "enter" button, demonstrated on the next line.

@@ -15,7 +15,7 @@ You will then be prompted for:
 
 <code>Subject:</code> give a subject line then click "enter"
 
-<code>Message (end message by typing <CRLF>.<CRLF>):</code>
+<code>Message (end message by typing \<CRLF\>.\<CRLF\>):</code>
 Type your message to the recipient here, you can press "enter" as many times as you want.
 To complete the body of your message, on a new line, simple type "." then click the "enter" button, demonstrated on the next line.
 

@@ -1,5 +1,5 @@
 # simple-smtp-client-server
-This was a project I worked on in my Intro to Internet Services and Protocols class. It includes a simple SMTP client and server. You can use the client in order to send emails, provided you have access to an (actual) SMTP server that has resources allocated to actually recieve, process, and forward emails to the appropriate user. The server will mimic the actions of an actual SMTP server capable of forwarding emails to users. In this case, it will forward any email you send to it to a folder in the <code>forward</code> folder. 
+This was a project I worked on in my Intro to Internet Services and Protocols class. It includes a simple SMTP client and server. You can use the client in order to send emails, provided you have access to an (actual) SMTP server that has resources allocated to actually receive, process, and forward emails to the appropriate user. The server will mimic the actions of an actual SMTP server capable of forwarding emails to users. In this case, it will forward any email you send to it to a folder in the <code>forward</code> folder. 
 
 Both the client and server validate commands, domains, hosts, and email bodies associated with the full email you are trying to send.
 
@@ -18,7 +18,7 @@ To complete the body of your message, on a new line, simple type "." then click 
 
 <code>.</code>
 
-If you want to send an email to Server.py, make sure Server.py is running and you type the host of Server.py and the same port that Server.py is running on in your intial start command to Client.py.
+If you want to send an email to Server.py, make sure Server.py is running and you type the host of Server.py and the same port that Server.py is running on in your initial start command to Client.py.
 
 Run Server.py in the following manner:
 

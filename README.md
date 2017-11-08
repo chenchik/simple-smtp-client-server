@@ -15,7 +15,7 @@ You will then be prompted for:
 <code>Message (end message by typing <CRLF>.<CRLF>):</code>
 Type your message to the recipient here, you can press "enter" as many times as you want.
 To complete the body of your message, on a new line, simple type "." then click the "enter" button, demonstrated on the next line.
-<code>.</code>
+\n<code>.</code>
 
 If you want to send an email to Server.py, make sure Server.py is running and you type the host of Server.py and the same port that Server.py is running on in your intial start command to Client.py.
 
